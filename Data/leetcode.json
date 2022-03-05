@@ -1,0 +1,2805 @@
+
+[{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.5235232280576084,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "1",
+    "isFavor": false,
+    "solutionNum": 16276,
+    "title": "Two Sum",
+    "titleCn": "两数之和",
+    "titleSlug": "two-sum",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 391,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/cca55ecdfb504378955a9bf4f2f33897bb84f04f9cbf84ea96321ce5d959ee13-adobe1.png",
+                "slug": "adobe",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4136743658433997,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "2",
+    "isFavor": false,
+    "solutionNum": 8491,
+    "title": "Add Two Numbers",
+    "titleCn": "两数相加",
+    "titleSlug": "add-two-numbers",
+    "topicTags": [
+        {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d9m3t",
+            "name": "Linked List",
+            "slug": "linked-list",
+            "nameTranslated": "链表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 197,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.38505440487911274,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "3",
+    "isFavor": false,
+    "solutionNum": 9090,
+    "title": "Longest Substring Without Repeating Characters",
+    "titleCn": "无重复字符的最长子串",
+    "titleSlug": "longest-substring-without-repeating-characters",
+    "topicTags": [
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 249,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4112382459894182,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "4",
+    "isFavor": false,
+    "solutionNum": 4633,
+    "title": "Median of Two Sorted Arrays",
+    "titleCn": "寻找两个正序数组的中位数",
+    "titleSlug": "median-of-two-sorted-arrays",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dp403",
+            "name": "Divide and Conquer",
+            "slug": "divide-and-conquer",
+            "nameTranslated": "分治",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 179,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.36228049669395596,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "5",
+    "isFavor": false,
+    "solutionNum": 4851,
+    "title": "Longest Palindromic Substring",
+    "titleCn": "最长回文子串",
+    "titleSlug": "longest-palindromic-substring",
+    "topicTags": [
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 202,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.5106883444089828,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "6",
+    "isFavor": false,
+    "solutionNum": 2941,
+    "title": "ZigZag Conversion",
+    "titleCn": "Z 字形变换",
+    "titleSlug": "zigzag-conversion",
+    "topicTags": [
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 72,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/9796c950529d841a0ba57e688dc64e04426c251315994b1fdeb8247d60c34930-unnamed.jpg",
+                "slug": "paypal",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.35162871127372575,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "7",
+    "isFavor": false,
+    "solutionNum": 5898,
+    "title": "Reverse Integer",
+    "titleCn": "整数反转",
+    "titleSlug": "reverse-integer",
+    "topicTags": [
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 155,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/cca55ecdfb504378955a9bf4f2f33897bb84f04f9cbf84ea96321ce5d959ee13-adobe1.png",
+                "slug": "adobe",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.21754694540943192,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "8",
+    "isFavor": false,
+    "solutionNum": 3101,
+    "title": "String to Integer (atoi)",
+    "titleCn": "字符串转换整数 (atoi)",
+    "titleSlug": "string-to-integer-atoi",
+    "topicTags": [
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 107,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.5774933325249632,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "9",
+    "isFavor": false,
+    "solutionNum": 5762,
+    "title": "Palindrome Number",
+    "titleCn": "回文数",
+    "titleSlug": "palindrome-number",
+    "topicTags": [
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 119,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/cca55ecdfb504378955a9bf4f2f33897bb84f04f9cbf84ea96321ce5d959ee13-adobe1.png",
+                "slug": "adobe",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.3162043822317666,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "10",
+    "isFavor": false,
+    "solutionNum": 1460,
+    "title": "Regular Expression Matching",
+    "titleCn": "正则表达式匹配",
+    "titleSlug": "regular-expression-matching",
+    "topicTags": [
+        {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 96,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6192591203552449,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "11",
+    "isFavor": false,
+    "solutionNum": 3665,
+    "title": "Container With Most Water",
+    "titleCn": "盛最多水的容器",
+    "titleSlug": "container-with-most-water",
+    "topicTags": [
+        {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 142,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6637800037988983,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "12",
+    "isFavor": false,
+    "solutionNum": 2078,
+    "title": "Integer to Roman",
+    "titleCn": "整数转罗马数字",
+    "titleSlug": "integer-to-roman",
+    "topicTags": [
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 83,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/34597b217a44eb0f2fadfc92727d5719c2a0cab3cf2f7434018046c56a8e831a-LinkedIn_logo_initials.png",
+                "slug": "linkedin",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6282620759926673,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "13",
+    "isFavor": false,
+    "solutionNum": 4514,
+    "title": "Roman to Integer",
+    "titleCn": "罗马数字转整数",
+    "titleSlug": "roman-to-integer",
+    "topicTags": [
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 91,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4183046151671496,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "14",
+    "isFavor": false,
+    "solutionNum": 4617,
+    "title": "Longest Common Prefix",
+    "titleCn": "最长公共前缀",
+    "titleSlug": "longest-common-prefix",
+    "topicTags": [
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 114,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.34614136535976786,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "15",
+    "isFavor": false,
+    "solutionNum": 3835,
+    "title": "3Sum",
+    "titleCn": "三数之和",
+    "titleSlug": "3sum",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 189,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4588708819147175,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "16",
+    "isFavor": false,
+    "solutionNum": 1720,
+    "title": "3Sum Closest",
+    "titleCn": "最接近的三数之和",
+    "titleSlug": "3sum-closest",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 70,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.5767824231052459,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "17",
+    "isFavor": false,
+    "solutionNum": 3699,
+    "title": "Letter Combinations of a Phone Number",
+    "titleCn": "电话号码的字母组合",
+    "titleSlug": "letter-combinations-of-a-phone-number",
+    "topicTags": [
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 91,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.39461545304599804,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "18",
+    "isFavor": false,
+    "solutionNum": 1861,
+    "title": "4Sum",
+    "titleCn": "四数之和",
+    "titleSlug": "4sum",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 55,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4358609180072778,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "19",
+    "isFavor": false,
+    "solutionNum": 4962,
+    "title": "Remove Nth Node From End of List",
+    "titleCn": "删除链表的倒数第 N 个结点",
+    "titleSlug": "remove-nth-node-from-end-of-list",
+    "topicTags": [
+        {
+            "id": "d9m3t",
+            "name": "Linked List",
+            "slug": "linked-list",
+            "nameTranslated": "链表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 118,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4455138185101946,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "20",
+    "isFavor": false,
+    "solutionNum": 6617,
+    "title": "Valid Parentheses",
+    "titleCn": "有效的括号",
+    "titleSlug": "valid-parentheses",
+    "topicTags": [
+        {
+            "id": "nn04j",
+            "name": "Stack",
+            "slug": "stack",
+            "nameTranslated": "栈",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 217,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6668248900944007,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "21",
+    "isFavor": false,
+    "solutionNum": 4403,
+    "title": "Merge Two Sorted Lists",
+    "titleCn": "合并两个有序链表",
+    "titleSlug": "merge-two-sorted-lists",
+    "topicTags": [
+        {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d9m3t",
+            "name": "Linked List",
+            "slug": "linked-list",
+            "nameTranslated": "链表",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 191,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.7736551655029508,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "22",
+    "isFavor": false,
+    "solutionNum": 3181,
+    "title": "Generate Parentheses",
+    "titleCn": "括号生成",
+    "titleSlug": "generate-parentheses",
+    "topicTags": [
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 113,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.5651141090052517,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "23",
+    "isFavor": false,
+    "solutionNum": 2644,
+    "title": "Merge k Sorted Lists",
+    "titleCn": "合并K个升序链表",
+    "titleSlug": "merge-k-sorted-lists",
+    "topicTags": [
+        {
+            "id": "d9m3t",
+            "name": "Linked List",
+            "slug": "linked-list",
+            "nameTranslated": "链表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dp403",
+            "name": "Divide and Conquer",
+            "slug": "divide-and-conquer",
+            "nameTranslated": "分治",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "xp2r1vv",
+            "name": "Merge Sort",
+            "slug": "merge-sort",
+            "nameTranslated": "归并排序",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 142,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.706372222765076,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "24",
+    "isFavor": false,
+    "solutionNum": 3020,
+    "title": "Swap Nodes in Pairs",
+    "titleCn": "两两交换链表中的节点",
+    "titleSlug": "swap-nodes-in-pairs",
+    "topicTags": [
+        {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d9m3t",
+            "name": "Linked List",
+            "slug": "linked-list",
+            "nameTranslated": "链表",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 73,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6610836360349303,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "25",
+    "isFavor": false,
+    "solutionNum": 2601,
+    "title": "Reverse Nodes in k-Group",
+    "titleCn": "K 个一组翻转链表",
+    "titleSlug": "reverse-nodes-in-k-group",
+    "topicTags": [
+        {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d9m3t",
+            "name": "Linked List",
+            "slug": "linked-list",
+            "nameTranslated": "链表",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 83,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.536481843845808,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "26",
+    "isFavor": false,
+    "solutionNum": 5356,
+    "title": "Remove Duplicates from Sorted Array",
+    "titleCn": "删除有序数组中的重复项",
+    "titleSlug": "remove-duplicates-from-sorted-array",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 97,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.5955391246347161,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "27",
+    "isFavor": false,
+    "solutionNum": 4907,
+    "title": "Remove Element",
+    "titleCn": "移除元素",
+    "titleSlug": "remove-element",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 49,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/cca55ecdfb504378955a9bf4f2f33897bb84f04f9cbf84ea96321ce5d959ee13-adobe1.png",
+                "slug": "adobe",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.40246101962625797,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "28",
+    "isFavor": false,
+    "solutionNum": 3792,
+    "title": "Implement strStr()",
+    "titleCn": "实现 strStr()",
+    "titleSlug": "implement-strstr",
+    "topicTags": [
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "ydzvgh",
+            "name": "String Matching",
+            "slug": "string-matching",
+            "nameTranslated": "字符串匹配",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 83,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.2214013602192592,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "29",
+    "isFavor": false,
+    "solutionNum": 1160,
+    "title": "Divide Two Integers",
+    "titleCn": "两数相除",
+    "titleSlug": "divide-two-integers",
+    "topicTags": [
+        {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 55,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.3654611015676989,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "30",
+    "isFavor": false,
+    "solutionNum": 729,
+    "title": "Substring with Concatenation of All Words",
+    "titleCn": "串联所有单词的子串",
+    "titleSlug": "substring-with-concatenation-of-all-words",
+    "topicTags": [
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 30,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.37366997628400017,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "31",
+    "isFavor": false,
+    "solutionNum": 2125,
+    "title": "Next Permutation",
+    "titleCn": "下一个排列",
+    "titleSlug": "next-permutation",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 85,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.3601361846337292,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "32",
+    "isFavor": false,
+    "solutionNum": 1533,
+    "title": "Longest Valid Parentheses",
+    "titleCn": "最长有效括号",
+    "titleSlug": "longest-valid-parentheses",
+    "topicTags": [
+        {
+            "id": "nn04j",
+            "name": "Stack",
+            "slug": "stack",
+            "nameTranslated": "栈",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 79,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4320647225122404,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "33",
+    "isFavor": false,
+    "solutionNum": 2991,
+    "title": "Search in Rotated Sorted Array",
+    "titleCn": "搜索旋转排序数组",
+    "titleSlug": "search-in-rotated-sorted-array",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 129,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4231701318089308,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "34",
+    "isFavor": false,
+    "solutionNum": 4253,
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "titleCn": "在排序数组中查找元素的第一个和最后一个位置",
+    "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 80,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4564260968414215,
+    "difficulty": "EASY",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "35",
+    "isFavor": false,
+    "solutionNum": 4887,
+    "title": "Search Insert Position",
+    "titleCn": "搜索插入位置",
+    "titleSlug": "search-insert-position",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 54,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6362828380388238,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "36",
+    "isFavor": false,
+    "solutionNum": 1766,
+    "title": "Valid Sudoku",
+    "titleCn": "有效的数独",
+    "titleSlug": "valid-sudoku",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 67,
+        "hasVideoSolution": false,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://assets.leetcode-cn.com/aliyun-lc-upload/tag/%E4%BC%98%E6%AD%A5%20%28Uber%29/company_logo",
+                "slug": "uber",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": false
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6719297765867265,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "37",
+    "isFavor": false,
+    "solutionNum": 1042,
+    "title": "Sudoku Solver",
+    "titleCn": "解数独",
+    "titleSlug": "sudoku-solver",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 51,
+        "hasVideoSolution": false,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": false
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.5981350684479183,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "38",
+    "isFavor": false,
+    "solutionNum": 2743,
+    "title": "Count and Say",
+    "titleCn": "外观数列",
+    "titleSlug": "count-and-say",
+    "topicTags": [
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 56,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.7278386692333241,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "39",
+    "isFavor": false,
+    "solutionNum": 2427,
+    "title": "Combination Sum",
+    "titleCn": "组合总和",
+    "titleSlug": "combination-sum",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 84,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/99a45f957529ef9ac7be507962ccee294f53b3cd87dc8163d18f16c1228e4a70-belo-cn-200x200-9518747d43e25d1834cda4cbe55464c5.png",
+                "slug": "airbnb",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6126743491506531,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "40",
+    "isFavor": false,
+    "solutionNum": 1676,
+    "title": "Combination Sum II",
+    "titleCn": "组合总和 II",
+    "titleSlug": "combination-sum-ii",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 58,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.42150636887902937,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "41",
+    "isFavor": false,
+    "solutionNum": 1620,
+    "title": "First Missing Positive",
+    "titleCn": "缺失的第一个正数",
+    "titleSlug": "first-missing-positive",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 88,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.597151844861404,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "42",
+    "isFavor": false,
+    "solutionNum": 2893,
+    "title": "Trapping Rain Water",
+    "titleCn": "接雨水",
+    "titleSlug": "trapping-rain-water",
+    "topicTags": [
+        {
+            "id": "nn04j",
+            "name": "Stack",
+            "slug": "stack",
+            "nameTranslated": "栈",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "xeyj5r5",
+            "name": "Monotonic Stack",
+            "slug": "monotonic-stack",
+            "nameTranslated": "单调栈",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 148,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/fa52c37e2967ccdfa8747e2699ce4edc6bec733637118f45d2665138acdf8ef4-2000px-Goldman_Sachs.svg_.png",
+                "slug": "goldman-sachs",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.44972735811022346,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "43",
+    "isFavor": false,
+    "solutionNum": 1343,
+    "title": "Multiply Strings",
+    "titleCn": "字符串相乘",
+    "titleSlug": "multiply-strings",
+    "topicTags": [
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "xeyjfe6",
+            "name": "Simulation",
+            "slug": "simulation",
+            "nameTranslated": "模拟",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 72,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.330143787967018,
+    "difficulty": "HARD",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "44",
+    "isFavor": false,
+    "solutionNum": 627,
+    "title": "Wildcard Matching",
+    "titleCn": "通配符匹配",
+    "titleSlug": "wildcard-matching",
+    "topicTags": [
+        {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 56,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.4400654888449038,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "45",
+    "isFavor": false,
+    "solutionNum": 2083,
+    "title": "Jump Game II",
+    "titleCn": "跳跃游戏 II",
+    "titleSlug": "jump-game-ii",
+    "topicTags": [
+        {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 65,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/d2e85988beccb271af4b1a8f4767e4bdf4c085aaf5aaef093347d778e4e138d7-20.png",
+                "slug": "huawei",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.7849195868082566,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "46",
+    "isFavor": false,
+    "solutionNum": 3529,
+    "title": "Permutations",
+    "titleCn": "全排列",
+    "titleSlug": "permutations",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 153,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6429421434140431,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "47",
+    "isFavor": false,
+    "solutionNum": 1810,
+    "title": "Permutations II",
+    "titleCn": "全排列 II",
+    "titleSlug": "permutations-ii",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 54,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.738202850318044,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "48",
+    "isFavor": false,
+    "solutionNum": 2448,
+    "title": "Rotate Image",
+    "titleCn": "旋转图像",
+    "titleSlug": "rotate-image",
+    "topicTags": [
+        {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 103,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.6696017181254127,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "49",
+    "isFavor": false,
+    "solutionNum": 1615,
+    "title": "Group Anagrams",
+    "titleCn": "字母异位词分组",
+    "titleSlug": "group-anagrams",
+    "topicTags": [
+        {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 99,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/fa52c37e2967ccdfa8747e2699ce4edc6bec733637118f45d2665138acdf8ef4-2000px-Goldman_Sachs.svg_.png",
+                "slug": "goldman-sachs",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+},
+{
+    "__typename": "QuestionLightNode",
+    "acRate": 0.3782350116252511,
+    "difficulty": "MEDIUM",
+    "freqBar": 0,
+    "paidOnly": false,
+    "status": "NOT_STARTED",
+    "frontendQuestionId": "50",
+    "isFavor": false,
+    "solutionNum": 1530,
+    "title": "Pow(x, n)",
+    "titleCn": "Pow(x, n)",
+    "titleSlug": "powx-n",
+    "topicTags": [
+        {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+        },
+        {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+        }
+    ],
+    "extra": {
+        "companyTagNum": 86,
+        "hasVideoSolution": true,
+        "topCompanyTags": [
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/f8fd5b104aa30bbd9bba7cf428a63e8c130f1665876e6afa52186d9510936517-fb_icon_325x325.png",
+                "slug": "facebook",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/5352d58e4b296e0704f20cfd99ecaec7af71d079b015923c72928650312c55b8-Messages Image(3349252251).png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+            },
+            {
+                "imgUrl": "https://pic.leetcode-cn.com/34597b217a44eb0f2fadfc92727d5719c2a0cab3cf2f7434018046c56a8e831a-LinkedIn_logo_initials.png",
+                "slug": "linkedin",
+                "__typename": "CommonTagNode"
+            }
+        ],
+        "__typename": "QuestionExtraInfoNode"
+    },
+    "hasVideoSolution": true
+}]
