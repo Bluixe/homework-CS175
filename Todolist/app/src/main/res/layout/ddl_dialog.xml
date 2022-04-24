@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ddl_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Todo..."
+        android:id="@+id/ct"/>
+
+    <TextView
+        android:layout_marginLeft="8dp"
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:textAppearance="?attr/textAppearanceBody2"
+        android:text="DDL日期:" />
+
+
+    <EditText
+        android:hint="YY/MM/DD"
+        android:inputType="date"
+        android:layout_margin="8dp"
+        android:id="@+id/et"
+        android:textAppearance="?attr/textAppearanceBody2"
+        android:layout_gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    />
+</LinearLayout>

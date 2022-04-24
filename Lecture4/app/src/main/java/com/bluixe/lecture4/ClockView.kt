@@ -27,6 +27,7 @@ class ClockView @JvmOverloads constructor(
         val runnable : Runnable = object: Runnable {
             override fun run() {
                 postInvalidate()
+
                 tickHandler.postDelayed(this, 1000)
             }
         }
